@@ -1,0 +1,20 @@
+.container{
+    width: 500px;
+    height: 500px;
+
+}
+.main{
+    border-color: gray;
+    box-shadow: 10px 10px 10px rgb(142, 143, 142);
+    background-color: rgb(236, 235, 235):cornsilk;
+    height: 1024px;
+    width: 500px;
+    overflow: ::scroll-marker;
+    
+
+}
+.picture{
+    height: 10px;
+    width: 500px;
+    background-color: brown;
+}
